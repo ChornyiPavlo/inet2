@@ -931,7 +931,9 @@ button {
 .navbar-expand-lg .navbar-collapse {
   justify-content: right;
 }
-
+.navbar-tariff {
+  justify-content: space-between;
+}
 .error_message {
   color: red;
   height: 0;
