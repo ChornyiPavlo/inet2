@@ -943,6 +943,14 @@ button {
   color: green;
   font-size: 20px;
 }
-
+.policy {
+  padding-bottom: 90px;
+}
+.policy p {
+  margin: 0;
+}
+.policy h2 {
+  margin-top: 20px;
+}
 
 
