@@ -345,6 +345,9 @@
     .main {
         width: 100%;
     }
+    .mt-tariff {
+        margin-top: 0px;
+    }
     .btn_main {
         margin-top: 30px;
         padding-bottom: 30px;

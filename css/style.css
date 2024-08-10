@@ -329,7 +329,9 @@ button {
   color: #ffffff;
   margin-left: 0px;
 }
-
+.mt-tariff {
+  margin-top: 80px;
+}
 .images_1{
   width: 100%;
   float: left;
@@ -954,4 +956,3 @@ button {
 .policy h2 {
   margin-top: 20px;
 }
-
